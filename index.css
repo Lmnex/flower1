@@ -23,6 +23,7 @@ body{
 
 .flower{
     position: relative;
+    margin-bottom: 30px;
 }
 
 .flower__glass{
